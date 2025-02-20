@@ -1,2 +1,3 @@
 # Crowd-Management-system
-A tile mounted with a piezoelectric sensor that detects crowd density and helps prevent accidents like stampedes.
+
+This project focuses on developing a tile embedded with piezoelectric sensors to monitor crowd density in public spaces like malls, concerts, and events. The system detects foot pressure to count people and displays the real-time crowd count on an LCD screen. If the crowd exceeds a set limit, a red LED and buzzer alert are triggered, and the system can integrate with automated gates for enhanced safety. The setup includes 14 piezoelectric sensors connected in parallel, an Arduino UNO, an LCD display, and LED indicators, all programmed using Arduino IDE for efficient crowd monitoring and accident prevention.
